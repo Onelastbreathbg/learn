@@ -1,0 +1,20 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onelastbreathbg/learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Onelastbreathbg/learn/issues"
+  },
+  "homepage": "https://github.com/Onelastbreathbg/learn#readme"
+}
